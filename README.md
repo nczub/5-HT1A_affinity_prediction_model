@@ -5,4 +5,4 @@ In attached files, there are curated database (information of id, SMILES and pKi
 
 Model and curated database with mordred descriptors are avaiable with this link:
 
-https://ujchmura-my.sharepoint.com/:f:/g/personal/natalia_czub_doctoral_uj_edu_pl/EnUA1HBiaSdAuBhg0LUNaQwBi9SgzXJPh2A5KpepHPjC0Q?e=UJ4ERu
+https://ujchmura-my.sharepoint.com/:f:/g/personal/natalia_czub_doctoral_uj_edu_pl/EnUA1HBiaSdAuBhg0LUNaQwBi9SgzXJPh2A5KpepHPjC0Q?e=zDOSRi
