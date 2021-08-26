@@ -8,3 +8,7 @@ https://ujchmura-my.sharepoint.com/:t:/g/personal/natalia_czub_doctoral_uj_edu_p
 
 Prediction model is avaiable with this link:
 https://ujchmura-my.sharepoint.com/:u:/r/personal/natalia_czub_doctoral_uj_edu_pl/Documents/PhD/github/5-HT1A_model.zip?csf=1&web=1&e=Qrlggd
+
+
+
+https://ujchmura-my.sharepoint.com/:u:/g/personal/natalia_czub_doctoral_uj_edu_pl/EQ8mCwbyIqxEi3rydnrjCVUBS0Hag-VC6FX-T75toyKacw
