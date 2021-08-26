@@ -5,4 +5,4 @@ In attached files, there is the best prediction model of pKi affinity for the se
 
 Model and curated database are avaiable with this link:
 
-https://ujchmura-my.sharepoint.com/:u:/g/personal/natalia_czub_doctoral_uj_edu_pl/EQ8mCwbyIqxEi3rydnrjCVUBS0Hag-VC6FX-T75toyKacw?e=UR1Rdn
+https://ujchmura-my.sharepoint.com/:f:/g/personal/natalia_czub_doctoral_uj_edu_pl/EnUA1HBiaSdAuBhg0LUNaQwBi9SgzXJPh2A5KpepHPjC0Q?e=UJ4ERu
