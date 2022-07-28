@@ -1,4 +1,4 @@
-# 5-HT1A_affinity_prediction_model
+# 5-HT1A_affinity_prediction_model - Mordred descriptors 2D
 Affinity prediction model for 5-HT1A ligands, based on curated database (merged ZINC and ChEMBL databases)
 
 QSAR models were obtained with AutoML H2O package. 
@@ -17,3 +17,8 @@ https://ujchmura-my.sharepoint.com/:u:/g/personal/natalia_czub_doctoral_uj_edu_p
 
 Prediction model with 39 descriptors is in folder: 39in_AutoML_H2O_model
 
+Model based on 39 descriptors is describe in out article according to the OECD Principles of valid QSAR model:
+Czub N, Pacławski A, Szlęk J, Mendyk A. Do AutoML-Based QSAR Models Fulfill OECD Principles for Regulatory Assessment? A 5-HT1A Receptor Case. Pharmaceutics. 2022; 14(7):1415. https://doi.org/10.3390/pharmaceutics14071415
+
+# 5-HT1A_affinity_prediction_model - Fingerprints
+Affinity prediction model for 5-HT1A ligands, based on curated database (merged ZINC and ChEMBL databases)
