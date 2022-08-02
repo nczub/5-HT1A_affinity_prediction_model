@@ -20,8 +20,8 @@ https://ujchmura-my.sharepoint.com/:u:/g/personal/natalia_czub_doctoral_uj_edu_p
 Model based on 39 descriptors is describe in out article according to the OECD Principles of valid QSAR model:
 Czub N, Pacławski A, Szlęk J, Mendyk A. Do AutoML-Based QSAR Models Fulfill OECD Principles for Regulatory Assessment? A 5-HT1A Receptor Case. Pharmaceutics. 2022; 14(7):1415. https://doi.org/10.3390/pharmaceutics14071415
 
-# 5-HT1A_affinity_prediction_model - Fingerprints
-Affinity prediction model for 5-HT1A ligands, based on curated database (merged ZINC and ChEMBL databases)
+# 5-HT1A_affinity_prediction_model - Fingerprints and descriptors
+Affinity prediction model for 5-HT1A ligands, based on curated database (merged ZINC and ChEMBL databases). QSAR models were obtained thanks to AutoML tool - mljar (https://github.com/mljar/mljar-supervised)
 
 Due to large size of mljar's models, models are available with links presented below:
 - QSAR model based on fingerprints:
