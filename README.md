@@ -22,3 +22,10 @@ Czub N, Pacławski A, Szlęk J, Mendyk A. Do AutoML-Based QSAR Models Fulfill OE
 
 # 5-HT1A_affinity_prediction_model - Fingerprints
 Affinity prediction model for 5-HT1A ligands, based on curated database (merged ZINC and ChEMBL databases)
+
+Due to large size of mljar's models, models are available with links presented below:
+- QSAR model based on fingerprints:
+https://ujchmura-my.sharepoint.com/:u:/g/personal/natalia_czub_doctoral_uj_edu_pl/ETmKnmQYhXZKjiyfcP6ujDwBOSFTBfLtrRi_lmC51Ip0ww?e=SU9fIr
+
+- QSAR model based on fingeprints and mordred descriptors:
+https://ujchmura-my.sharepoint.com/:u:/g/personal/natalia_czub_doctoral_uj_edu_pl/EZlV8c8iyq1NjAoezALUDgsBHpIvpLVgH4hH3W2-HWtOTQ?e=KtOQra
